@@ -2,15 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Website Preview
-
-![](https://upload.cc/i1/2023/02/13/UPo1Xe.png)
-![](https://upload.cc/i1/2023/02/13/wyzXgh.png)
-![](https://upload.cc/i1/2023/02/13/T0Rfnc.png)
-![](https://upload.cc/i1/2023/02/13/sEzclk.png)
-![](https://upload.cc/i1/2023/02/13/uEXORw.png)
-
-
 
 ## Available Scripts
 
@@ -54,3 +45,26 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Website Preview
+
+Login System
+![](https://upload.cc/i1/2023/02/13/mSv2oU.png)
+
+Main Page
+![](https://upload.cc/i1/2023/02/13/g0OvDM.png)
+
+Product Page
+![](https://upload.cc/i1/2023/02/13/cED0t3.png)
+
+Chatroom Page
+![](https://upload.cc/i1/2023/02/13/GTJxaZ.png)
+
+Order Page
+![](https://upload.cc/i1/2023/02/13/b3c96Z.png)
+
+Shopping Cart
+![](https://upload.cc/i1/2023/02/13/V9Y6bl.png)
+
+Management Page
+![](https://upload.cc/i1/2023/02/13/SvoORs.png)
