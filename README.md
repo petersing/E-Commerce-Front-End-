@@ -68,3 +68,7 @@ Shopping Cart
 
 Management Page
 ![](https://upload.cc/i1/2023/02/13/SvoORs.png)
+
+## Description
+
+This project is just a front-end website and does not include any back-end server data, which will be created in another github repository
