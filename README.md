@@ -76,3 +76,8 @@ Management Page
 ## Description
 
 This project is just a front-end website and does not include any back-end server data, which will be created in another github repository
+
+
+## Declare
+
+This server is still under development, not yet in production, there may be many bugs, welcome to report
